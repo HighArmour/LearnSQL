@@ -12,7 +12,7 @@
 
     X-Content-Type-Options = "nosniff"
     
-    Content-Security-Policy: default-src "self"
+    Content-Security-Policy = "default-src 'self';"
 
     
 [[headers]]
